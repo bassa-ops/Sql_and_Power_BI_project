@@ -46,7 +46,8 @@ new strategies and make data-driven adjustments as needed.
 • Power BI
 • Presentation Tool
 
-![image](https://github.com/bassa-ops/Sql_and_Power_BI_project/assets/65884967/dc344296-910e-473e-b6a4-b7291ece5509)
+![image](https://github.com/bassa-ops/Sql_and_Power_BI_project/assets/65884967/dc868018-3fa0-4ad1-8474-b62322703e8b)
+
 
 
 ![image](https://github.com/bassa-ops/Sql_and_Power_BI_project/assets/65884967/f0697b24-1df7-4c1d-992c-0a1dddf9318b)
