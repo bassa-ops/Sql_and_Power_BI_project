@@ -40,6 +40,7 @@ tailored to each customer segment.
 new strategies and make data-driven adjustments as needed.
 
 **Software Requirement**
+
 • MySQL
 • Ms Excel
 • Power BI
